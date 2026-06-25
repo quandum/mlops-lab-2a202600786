@@ -14,3 +14,4 @@ __pycache__/
 *__init__.py
 mlops-serve.service
 setup_gcp.ps1
+screenshots/

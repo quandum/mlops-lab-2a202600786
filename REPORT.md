@@ -373,20 +373,25 @@ mlops-lab/
 
 ## VII. Phụ lục: Ảnh chụp Màn hình
 
-### A. MLflow UI - Danh sách thí nghiệm
-> *(Chèn ảnh)*
+### A. MLflow - 5 thí nghiệm ✅
 
-### B. GitHub Actions - Pipeline Bước 2 thành công
-> *(Chèn ảnh)*
+![MLflow Experiments](screenshots/mlflow-ui.png)
 
-### C. API Test - curl /health và /predict
-> *(Chèn ảnh)*
+### B. Pipeline Bước 2 - CI/CD thành công ✅
 
-### D. GitHub Actions - Pipeline Bước 3 (kích hoạt bởi commit dữ liệu)
-> *(Chèn ảnh)*
+![Pipeline Bước 2](screenshots/pipeline-buoc2.png)
 
-### E. Cloud Storage - Dữ liệu và model trên GCS
-> *(Chèn ảnh)*
+### C. API Test - Health check & Predict ✅
+
+![API Test](screenshots/api-test.png)
+
+### D. Pipeline Bước 3 - Continuous Training ✅
+
+![Pipeline Bước 3](screenshots/pipeline-buoc3.png)
+
+### E. GCS Console - Dữ liệu & Model trên Cloud Storage ✅
+
+![GCS Console](screenshots/gcs-console.png)
 
 ---
 
