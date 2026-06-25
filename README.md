@@ -370,7 +370,7 @@ mlops-lab/
 
 ![MLflow Experiments](screenshots/mlflow-ui.png)
 
-### B. Pipeline Bước 2 - CI/CD thành công ✅
+### B. Pipeline Bước 2 - Eval gate chặn deploy (accuracy 0.67 < 0.70) ✅
 
 ![Pipeline Bước 2](screenshots/pipeline-buoc2.png)
 
@@ -378,7 +378,7 @@ mlops-lab/
 
 ![API Test](screenshots/api-test.png)
 
-### D. Pipeline Bước 3 - Continuous Training ✅
+### D. Pipeline Bước 3 - Continuous Training (4/4 pass) ✅
 
 ![Pipeline Bước 3](screenshots/pipeline-buoc3.png)
 
