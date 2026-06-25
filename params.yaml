@@ -1,5 +1,12 @@
 # Sieu tham so cho mo hinh RandomForestClassifier
 # Thay doi cac gia tri nay giua cac lan chay de thi nghiem (Buoc 1)
+#
+# Thong tin hoc vien:
+#   Ho va ten       : Tran Manh Chanh Quan
+#   Ma so hoc vien  : 2A202600786
+#   Khoa hoc        : AIInAction - VinUni
+#   Buoi            : Day 21 - CI/CD cho AI Systems
+#
 n_estimators: 100
 max_depth: 5
 min_samples_split: 2
